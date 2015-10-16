@@ -1,0 +1,13 @@
+Source: descriptor
+Maintainer: Karsten Loesing <karsten@torproject.org>
+Section: misc
+Priority: optional
+Standards-Version: 3.9.2
+Build-Depends: debhelper (>= 9), javahelper (>= 0.43)
+Build-Depends-Indep: openjdk-6-jdk, ant, libcommons-compress-java (>= 1.4.1)
+
+Package: descriptor
+Architecture: any
+Depends: libcommons-compress-java (>= 1.4.1), libxz-java (>= 1.0)
+Description: A Tor Descriptor API for Java
+

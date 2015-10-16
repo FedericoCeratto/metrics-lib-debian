@@ -1,0 +1,5 @@
+descriptor (1.0-1) UNRELEASED; urgency=low
+
+  * Initial release.
+
+ -- Karsten Loesing <karsten@torproject.org>  Fri, 16 Oct 2015 09:00:00 +0200
